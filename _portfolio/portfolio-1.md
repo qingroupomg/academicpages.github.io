@@ -1,6 +1,6 @@
 ---
-title: "Student"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/bio-photo.jpg'>"
+title: "Xibin Song"
+excerpt: "PHD <br/><img src='/images/bio-photo.jpg'>"
 collection: portfolio
 ---
 
